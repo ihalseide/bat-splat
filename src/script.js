@@ -6,7 +6,7 @@ window.onload = function() {
 
     // Main function to preload assets
     function preload () {
-        game.load.image('logo', 'phaser.png');
+        game.load.image('logo', '/res/test.png');
     }
 
     // Main function to create the game
